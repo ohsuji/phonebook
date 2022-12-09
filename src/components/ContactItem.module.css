@@ -1,0 +1,26 @@
+img {
+    width: 70px
+}
+
+.box {
+    border: 1px solid #ced4da;
+    border-radius: 15px;
+    padding: 12px;
+    margin: 10px 0;
+}
+
+.text {
+    padding: 16px 0 0 20px
+}
+
+h5,
+p {
+    line-height: 1;
+    margin-bottom: 5px;
+}
+h5 {
+    font-weight: bold;
+}
+p {
+    color: #ea6f02;
+}
